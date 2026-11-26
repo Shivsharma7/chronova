@@ -1,0 +1,6 @@
+{
+  "name": "Mare Nostrum — Mediterranean Historical Atlas",
+  "description": "Interactive historical atlas, gazetteer, world chronicle, civilization comparator, and primary source archive exploring 45 ancient cities across 6 Afro-Eurasian regions from 3000 BCE to 1500 CE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
